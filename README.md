@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a frontend Developer with a love for creating innovative solutions for easy and understandable interfaces and exploring new technologies. Here are a few things about me:
+I'm a frontend Developer with a love for creating innovative solutions for easy and understandable interfaces and exploring new technologies.
 
 ## 🛠️ Languages and Tools
 
